@@ -50,6 +50,7 @@ padding: 2px 15px;
 border-radius: 20px;
 transition: 0.3s;
 transition-property: background;
+overflow-x: hidden;
 }
 
 header .navigation a:not(:last-child){
